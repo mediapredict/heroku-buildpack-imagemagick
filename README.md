@@ -10,4 +10,5 @@ This has the downside of a (potentially very long) deploy time for the first pus
 
 ## Stack compatibility
 ~~This buildpack is tested primarily against the `cedar-14` stack. Currently, a workaround is required to make it work on the newer `cedar-16` stack - see https://github.com/ello/heroku-buildpack-imagemagick/pull/17 for details.~~
+
 UPDATE: this buildpack supports heroku-16 stack
